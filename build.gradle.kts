@@ -24,7 +24,7 @@ dependencies {
     testImplementation("org.assertj:assertj-core:3.24.2")
     implementation("io.rest-assured:rest-assured:5.3.0")
     implementation("io.rest-assured:json-path:5.3.0")
-    implementation("io.metatest:metatest:1.0.0-dev-9e5e4f1")
+    implementation("io.metatest:metatest:1.0.0-dev-ca48add")
 }
 
 tasks.test {
